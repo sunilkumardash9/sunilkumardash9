@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sunil Kumar Dash
 - 👀 I’m interested in everything that is data
-- 🌱 Back-end Developer
+- 🌱 Developer
 - Read my articles on various Datascience/ML topics here on Analystics Vidhya
 - https://www.analyticsvidhya.com/blog/author/sunil_kumar27/
 - 📫 How to reach me sunilkumardash9@gmail.com
